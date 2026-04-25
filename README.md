@@ -145,8 +145,8 @@ Real-time donor availability, clean UI, and a mission that goes beyond just buil
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Prabushankar15-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabushankar15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabushankar)
-[![Email](https://img.shields.io/badge/Email-prabushankar15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabushankar15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/p-prabu-shankar)
+[![Email](https://img.shields.io/badge/Email-prabushankar15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praburonaldo03@gmail.com)
 
 <br/>
 
