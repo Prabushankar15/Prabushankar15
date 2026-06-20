@@ -23,7 +23,7 @@ A passionate frontend developer who loves building real-world, impactful web app
 - Passionate about solving real-life problems through tech — especially in education, productivity, and social impact
 - Open to collaborating on **open-source frontend & full-stack projects**
 - Ask me about **HTML, CSS, JavaScript, React, UI/UX thinking**
-- Reach me at: **prabushankar15@gmail.com**
+- Reach me at: **prabushankar151@gmail.com**
 - Fun fact: I still use `console.log()`… and yes, it always works
 
 ---
@@ -146,7 +146,7 @@ Real-time donor availability, clean UI, and a mission that goes beyond just buil
 
 [![GitHub](https://img.shields.io/badge/GitHub-Prabushankar15-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabushankar15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/p-prabu-shankar)
-[![Email](https://img.shields.io/badge/Email-praburonaldo03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praburonaldo03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prabushankar151@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabushankar151@gmail.com)
 
 <br/>
 
