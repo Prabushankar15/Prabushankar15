@@ -67,13 +67,13 @@ A passionate frontend developer who loves building real-world, impactful web app
 
 ## Projects
 
-### AcadZen
+### LearnZivo
 > Education-focused platform designed to make learning more structured, accessible, and impactful.
 
 A vision project tackling real problems in how students learn — built with strong UX intuition and a mission-first approach.
 
 `React.js` · `TypeScript` · `Tailwind CSS`
-
+chech  - learnzivo.in
 ---
 
 ### Blogo
