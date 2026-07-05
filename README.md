@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, I'm Prabushankar
+# Hi, I'm Prabu Shankar P
 
 ### Frontend Developer · Real-world Builder · Education & Impact Focused · Tamil Nadu, India
 
