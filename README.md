@@ -18,7 +18,7 @@
 
 A passionate frontend developer who loves building real-world, impactful web applications — not just writing code, but solving problems people actually face.
 
-- Currently building **AcadZen**, **Blogo**, **Habitonix**, **Crop Yield Predictor**, and **Vital Drop**
+- Currently building **LearnZivo**, **Blogo**, **Habitonix**, **Crop Yield Predictor**, and **Vital Drop**
 - Continuously learning **React.js**, **TypeScript**, and **Tailwind CSS** to craft modern, scalable UIs
 - Passionate about solving real-life problems through tech — especially in education, productivity, and social impact
 - Open to collaborating on **open-source frontend & full-stack projects**
