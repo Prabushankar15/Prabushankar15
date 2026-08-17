@@ -27,7 +27,7 @@ const prabu = {
 
 <br/>
 
-## 👋 About Me
+##  About Me
 
 A frontend developer who builds real-world, impactful web applications — not just writing code, but solving problems people actually face.
 
