@@ -256,7 +256,7 @@ Blood donation platform connecting donors with people in need in real time — a
 
 <div align="center">
 
-### 💭 "I still use `console.log()` … and it never lies."
+### 💭 "I still use `console.log()`… and it never lies."
 Started this journey to build things that actually matter — that's still the mission every single day.
 
 <br/>
