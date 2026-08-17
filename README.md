@@ -62,7 +62,7 @@ A frontend developer who builds real-world, impactful web applications — not j
 
 <br/>
 
-## 🧰 My Favorite Tools & Technologies ⚙️
+## My Favorite Tools & Technologies ⚙️
 
 > Tools and technologies I've worked with and am interested in
 
